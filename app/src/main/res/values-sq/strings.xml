@@ -28,7 +28,6 @@
     <string name="menu_about">Rreth nesh</string>
 
     <string name="change_category_title">Zgjidh kategorinë</string>
-    <string name="change_category_message">Ju lutemi shkruani një emër kategorie</string>
     <string name="copy">Kopjo</string>
 
     <string name="listview_updated_today">Sot</string>
@@ -95,7 +94,6 @@
     <string name="about_contribution_tab_title">Kontributi</string>
     <string name="about_license_tab_title">Liçensë</string>
 
-    <string name="widget_all_notes_title">Të gjitha shënimet</string>
     <string name="widget_single_note_title">Një shënim i vetëm</string>
     <!-- Shortcuts -->
     <string name="shortcut_create_long">Krijo një shënim të ri</string>

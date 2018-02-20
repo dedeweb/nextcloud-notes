@@ -11,7 +11,7 @@
 
     <!-- Widgets -->
     <dimen name="widget_margin">8dp</dimen>
-    <dimen name="widget_single_note_padding">10dp</dimen>
+    <dimen name="widget_single_note_padding">0dp</dimen>
     <dimen name="widget_create_note_padding">0dp</dimen>
 
     <dimen name="widget_note_list_hdr_padding">2dp</dimen>

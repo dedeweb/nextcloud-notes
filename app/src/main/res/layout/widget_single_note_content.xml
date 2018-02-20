@@ -3,5 +3,6 @@
     android:id="@+id/single_note_content_tv"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:textColor="@color/fg_default"
+    android:textSize="12sp"
+    android:textColor="@color/widget_foreground"
     />

@@ -28,7 +28,6 @@
     <string name="menu_about">Acerca de</string>
 
     <string name="change_category_title">Elixa categoría</string>
-    <string name="change_category_message">Por favor introduza un nome de categoría</string>
     <string name="copy">Copiar</string>
 
     <string name="listview_updated_today">Hoxe</string>
@@ -95,7 +94,6 @@
     <string name="about_contribution_tab_title">Colaboración</string>
     <string name="about_license_tab_title">Licenza</string>
 
-    <string name="widget_all_notes_title">Todas as notas</string>
     <string name="widget_single_note_title">Nota única</string>
     <!-- Shortcuts -->
     <string name="shortcut_create_long">Crear unha nova nota</string>
